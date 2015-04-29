@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        <p>Modificacions primera</p>
         <h1>Canvis segona</h1>
     </body>
 </html>
